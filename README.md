@@ -18,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/with_maddy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="with_maddy_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/madhurya-mishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madhurya-mishra/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/madhurya._mishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/madhurya._mishra/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/madhurya11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/madhurya11/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/madhurya-mishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhurya-mishra/" height="30" width="40" /></a>
+<a href="https://instagram.com/madhurya._mishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhurya._mishra/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/madhurya11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/madhurya11/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
